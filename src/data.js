@@ -51,8 +51,8 @@ export const cakes = [
     category: "bento",
     price: 1500,
     unit: "шт",
-    gradient:
-      "https://avatars.mds.yandex.net/get-altay/16483787/2a0000019a29fbbe053eaec2f722a5aeb25d/XXXL",
+    gradient: "linea-gradient(white,purple)",
+    img: "https://avatars.mds.yandex.net/get-altay/20858623/2a000001a0a06455feba60e2d7dc67e27515/XXXL",
   },
   {
     id: 5,
