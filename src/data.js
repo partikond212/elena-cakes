@@ -52,7 +52,7 @@ export const cakes = [
     price: 1500,
     unit: "шт",
     gradient:
-      "https://avatars.mds.yandex.net/i?id=6e9fd7c24aa08b224a48c871d25d7addc3135801-5484758-images-thumbs&n=13",
+      "https://avatars.mds.yandex.net/get-altay/16483787/2a0000019a29fbbe053eaec2f722a5aeb25d/XXXL",
   },
   {
     id: 5,
